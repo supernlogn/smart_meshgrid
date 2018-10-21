@@ -21,3 +21,7 @@ import smart_meshgrid import smart_meshgrid
   for x in smart_meshgrid(X1, X2):
     print x
 ```
+
+## Requirements
+
+- Numpy
