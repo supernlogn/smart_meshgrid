@@ -12,7 +12,7 @@ A typical use:
 
 ```python
 import numpy as np
-import smart_meshgrid import smart_meshgrid
+import smart_meshgrid from smart_meshgrid
 
 ...
   X1 = np.arange(0, 100)
